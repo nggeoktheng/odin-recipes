@@ -1,1 +1,1 @@
-# odin-recipes
+Using HTML concepts and apply to my first odin project
