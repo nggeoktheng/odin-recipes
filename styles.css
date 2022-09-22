@@ -1,0 +1,12 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+#homepage-title, .recipe-title {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
